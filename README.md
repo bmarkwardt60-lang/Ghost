@@ -1,0 +1,2 @@
+# Ghost
+Roblox Script
